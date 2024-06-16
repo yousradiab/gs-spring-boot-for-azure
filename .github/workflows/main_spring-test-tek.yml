@@ -60,3 +60,4 @@ jobs:
           app-name: "spring-test-tek"
           slot-name: "Production"
           package: "*.jar"
+#done
